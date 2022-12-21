@@ -6,7 +6,7 @@ on:
     # 执行两次 避免偶尔执行失败的情况出现
     - cron: "15 22 * * *"
     - cron: "30 23 * * *"
-    - cron: "40 2 * * *"
+    - corn: "40 23 * * *"
   push:
     branches:
       - main
@@ -18,7 +18,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    #if: github.event.repository.owner.id == github.event.sender.id
+    # if: github.event.repository.owner.id == github.event.sender.id
 
     strategy:
       matrix:
@@ -26,10 +26,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - name: Use Node.js ${{ matrix.node-version }}
+      - name: Use Node.js 16.x
         uses: actions/setup-node@v3
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version: '16.x'
       - name: npm包安装
         run: npm ci
       - name: 开始任务
