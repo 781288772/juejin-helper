@@ -1652,7 +1652,11 @@
             "今日废话：卑屈游戏谁是先该离场的呢？",
             "今日废话：他只有两只手，所以只能用心抓住一个人。",
             "今日废话：我的辫子长在头上，诸君的辫子长在心里。",
-            "今日废话：剑指之地，破穹其顶。"
+            "今日废话：剑指之地，破穹其顶。",
+            "说得好",
+            "又一批失业人员",
+            "这一天过得可真精彩，科目三很简单的",
+            "该换电脑了"
         ],
         "article": [
             "感谢，学习了，受益颇多",
@@ -4431,7 +4435,36 @@
             "登陆500了",
             "接口服务405了",
             "setup 函数里边不是\n先 import { useRouter, useRoute } from 'vue-router'\n再const router = useRouter()\n    const route = useRoute()\n最后在这样\n router.push({\n        name: 'search',\n        query: {\n          ...route.query,\n        },\n      }) 吗？",
-            "404报错"
+            "404报错",
+            "模板代码生成的命令不错",
+            "直接买vab，省去这些问题",
+            "element一把梭~",
+            "看了半天，原来是引流打广告的",
+            "加油！",
+            "6啊 商业软件的后台所需要的功能都有了 设计的也很美观 官网做的也不马虎 UP很用心的在做这件事情",
+            "gitee上预览的登录接口报错呀",
+            "请问大佬，能出篇详细讲讲，怎么从零编写一套，通过指令生成通用代码模板的文章吗，对这个很好奇[不失礼貌的微笑][思考]",
+            "打个广告，谢谢！纯前端中后台可视化开发方案：https://juejin.cn/user/3966693684587543",
+            "我虽然看不懂，但我大受震撼",
+            "预览报404了",
+            "[鼓掌][鼓掌]",
+            "预览地址接口404了，",
+            "今日沸点+1",
+            "setup 不是介于beforeCreate和created之间么",
+            "想问下router的使用方面\n\n直接引入router/index中导出的router和使用vue提供的useRouter有什么区别吗",
+            "我觉得都用vue3，就干脆用tsx来写，用了就回不去了",
+            "简单组件还是选择options，不能强行setup",
+            "this.$emit('update:myPropName', newValue) 中'update:myPropName'是什么意思",
+            "vue2中this.$emit('update:myPropName', newValue)，应该写成this.$emit(‘input’, newValue)吧？\n还有获取全局属性不需要 const instance = getCurrentInstance();\n  const { $api, $eventBus } = instance.appContext.config.globalProperties;直接const {proxy}= getCurrentInstance(); const { $api, $eventBus } = proxy;这样就行了",
+            "大佬，请教一下，文章中蓝色的标题和黑色的代码背景是怎么设置的？",
+            "由于我使用都是 script-srtup模式，不应该是setup吗",
+            "删除了已声明默认值的属性的可选标志。是什么意思",
+            "我也是打包时报了css错误，我是把我全局css中的font-family属性去掉就不报错了，也不知道是为啥，忙试试你的方法，希望有用",
+            "例如挂载axios , 使用globalProperties或inject有啥优缺点吗?",
+            "写的很好，下次别写这么少了[看]",
+            "Element Plus打包报错那个问题，可以在tsconfig.json的compilerOptions里加一句\"skipLibCheck\": true",
+            "getCurrentInstance不建议用在业务代码，文档有说",
+            "您好，请问文章可以转载吗，会标注原文链接的"
         ]
     }
 }
