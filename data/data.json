@@ -1704,7 +1704,9 @@
             "看稀土掘金",
             "确实很爽",
             "确实爽",
-            "还不梭哈？10天翻倍"
+            "还不梭哈？10天翻倍",
+            "从不摸鱼",
+            "PMP教科书"
         ],
         "article": [
             "感谢，学习了，受益颇多",
@@ -4810,7 +4812,16 @@
             "非常厉害",
             "小行星视角进入这种盒子场景有思路不？？以前想了很多办法都没搞得了。",
             "大佬[赞]",
-            "请问你这个项目是为了解决什么问题"
+            "请问你这个项目是为了解决什么问题",
+            "[玫瑰][玫瑰]",
+            "后缀获取的这一下 可以优化一下 嘿嘿\ntry {\n   var flieArr = fileName.split(\".\");\n   // var flieArr = fileName.split(\".\").at(-1);  \n   // suffix = flieArr[flieArr.length - 1];\n}\ncatch (err) {\n   suffix = \"\";\n}\n\n\n\n[微笑]",
+            "补0的地方有问题吧\n应该是这样的：const m = time.getMonth() + 1 < 10 ? '0' + (time.getMonth() + 1) : time.getMonth() + 1",
+            "专业面试题呗哈哈",
+            "Date.prototype.toLocaleTimeString()",
+            "https://momentjs.com/docs/#/get-set/day/\n\nmoment().day(1)\nmoment().day(7)\n\nmoment().date(1)\nmoment().date(30)\n\n不香吗？",
+            "第一个，输入个周日，比如‘2022-11-06’，输出['2022-11-07', '2022-11-13']，这样好吗[坏笑]",
+            "６",
+            "占个楼推荐一个前端导航页https://www.5cv.top/[看]"
         ]
     }
 }
